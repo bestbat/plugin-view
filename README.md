@@ -47,7 +47,7 @@ brew install coreutils
 ## Team
  - [Mark Wu](http://blog.markplace.net) - Original Author
  - [Ali Karbassi](https://karbassi.com) - todotxt maintainer
- - Inspired by and based on Paul Mansfield's projectview, http://github.com/the1ts/todo.txt-plugins/blob/master/README.projects
+ - Inspired by and based on Paul Mansfield's [projectview](http://github.com/the1ts/todo.txt-plugins/)
 
 ## License
 GPL3
