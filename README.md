@@ -15,7 +15,6 @@ $ todo.sh view help
     $ todo.sh view [OPTION] [TERM]
 
   Options
-    --init            Add XO to your project
     project           Show todo items group by project
     context           Show todo items group by context
     date              Show todo items group by date
